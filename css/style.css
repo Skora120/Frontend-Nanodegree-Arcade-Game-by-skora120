@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+}
+#canvasGame{
+	z-index: -1;
+	position: absolute;
+}
